@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>CRM Newsletter Projects – Linh Nguyen</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #fdfdfd; padding: 40px; }
+    h1 { font-size: 26px; margin-bottom: 20px; }
+    ul { list-style: none; padding: 0; }
+    li { margin: 10px 0; }
+    a { text-decoration: none; color: #007acc; font-weight: bold; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <h1>CRM Newsletter Projects – Maison Margiela & MM6</h1>
+  <ul>
+    <li><a href="LinhNGUYEN_MaisonMargiela_AW25PostShow_NL.html" target="_blank">AW25 Post Show</a></li>
+    <li><a href="LinhNGUYEN_MaisonMargiela_GentleMonsterCollab_NL.html" target="_blank">Gentle Monster Collaboration</a></li>
+    <li><a href="LinhNGUYEN_MaisonMargiela_LouboutinCollab_NL1.html" target="_blank">Louboutin Collaboration – NL1</a></li>
+    <li><a href="LinhNGUYEN_MaisonMargiela_LouboutinCollab_NL2.html" target="_blank">Louboutin Collaboration – NL2</a></li>
+    <li><a href="LinhNGUYEN_MaisonMargiela_PittiUomoAW25PostShow_NL.html" target="_blank">Pitti Uomo AW25 Post Show</a></li>
+    <li><a href="LinhNGUYEN_MaisonMargiela_Valentine_NL.html" target="_blank">Valentine Campaign</a></li>
+    <li><a href="LinhNGUYEN_MM6_DRMartensCollab_NL1.html" target="_blank">MM6 × Dr. Martens – NL1</a></li>
+    <li><a href="LinhNGUYEN_MM6_DRMartensCollab_NL2.html" target="_blank">MM6 × Dr. Martens – NL2</a></li>
+    <li><a href="LinhNGUYEN_MM6_SalomonCollab_NL1.html" target="_blank">MM6 × Salomon – NL1</a></li>
+    <li><a href="LinhNGUYEN_MM6_SalomonCollab_NL2.html" target="_blank">MM6 × Salomon – NL2</a></li>
+  </ul>
+</body>
+</html>
